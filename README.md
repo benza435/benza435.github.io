@@ -10,3 +10,5 @@ I'm a solo developer, with no interest in data collection.  I just want to try p
 6. If you email me, I will keep that email for as long as it takes me to respond to it, and then probably some time after that.  I will not share that information with anybody else.
 7. Let's just be reasonable about this.  Download the app and use it if you like.  I won't even know if you are using it.
 8. If you have read this far, you are probably suffering some form of procrastination habit.  Go and do something useful!
+
+I will do a proper privacy policy if I ever actually start handling data.
